@@ -6,15 +6,8 @@ public class Main {
 
 	public static void main(String args[]) {
 		
-//		System.out.println("preet");
-		int first = 1;
-		int second = 2;
-		int []marks = {first,second,Third,4};
-		String rollno[] = {"jasmeen","sahiba"};
-		for(String s : rollno) {
-			System.out.println(s);
-		}
-		printMarks(marks, 0);
+		System.out.println("preett");
+		
 		 
 	}
 
